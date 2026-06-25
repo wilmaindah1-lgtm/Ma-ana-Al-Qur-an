@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ma'ana Al Qur'an</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f8f5ef;color:#2f1d12}
+header{background:#2f1d12;color:#d4af37;padding:18px;position:sticky;top:0}
+nav{display:flex;justify-content:space-between;align-items:center;max-width:1200px;margin:auto}
+.btn{background:#d4af37;color:#2f1d12;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold}
+.hero{background:linear-gradient(135deg,#2f1d12,#5a3a22);color:white;padding:80px 20px}
+.container{max-width:1200px;margin:auto}
+h1{font-size:56px;margin:0}
+section{padding:60px 20px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.card{background:white;border:2px solid #d4af37;border-radius:12px;padding:20px}
+footer{background:#2f1d12;color:white;padding:30px;text-align:center}
+</style>
+</head>
+<body>
+<header>
+<nav>
+<div><strong>RUMAH QUR'AN MA'ANA AL QUR'AN</strong></div>
+<a class="btn" href="https://wa.me/6285641169356">Daftar / Konsultasi</a>
+</nav>
+</header>
+
+<div class="hero">
+<div class="container">
+<h1>MA'ANA AL QUR'AN</h1>
+<p>Menemani perjalanan belajar Al Qur'an dari nol hingga mahir.</p>
+<a class="btn" href="https://wa.me/6285641169356">Daftar via WhatsApp</a>
+</div>
+</div>
+
+<section>
+<div class="container">
+<h2>Tentang Kami</h2>
+<p>Rumah belajar Al Qur'an dengan metode terstruktur, pengajar berpengalaman, dan suasana belajar yang nyaman.</p>
+</div>
+</section>
+
+<section>
+<div class="container">
+<h2>Program Unggulan</h2>
+<div class="cards">
+<div class="card"><h3>Rumah Qur'an</h3><p>Komunitas belajar Al Qur'an.</p></div>
+<div class="card"><h3>Tahsin Online</h3><p>Belajar fleksibel dari mana saja.</p></div>
+<div class="card"><h3>Tahsin Offline</h3><p>Pembelajaran tatap muka.</p></div>
+<div class="card"><h3>Tahsin Privat</h3><p>Pendampingan personal.</p></div>
+<div class="card"><h3>Tahsin Klasikal</h3><p>Belajar dalam kelompok.</p></div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="container">
+<h2>Keunggulan Kami</h2>
+<ul>
+<li>Pengajar bersanad</li>
+<li>Metode terstruktur</li>
+<li>Jadwal fleksibel</li>
+<li>Untuk semua usia</li>
+</ul>
+</div>
+</section>
+
+<footer>
+<p>Hubungi kami: 085641169356</p>
+<p>&copy; 2026 Ma'ana Al Qur'an</p>
+</footer>
+</body>
+</html>
